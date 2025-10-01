@@ -1,5 +1,5 @@
 # CSIS-3740
-This is where I will be putting all projects done during the course Computer Organization from Youngstown State University.
+This is where I will be putting all projects done during the Computer Organization course from Youngstown State University.
 
 Objective:
 During this course I will be learning basic hardware components, structure, and implementation of computer systems.
